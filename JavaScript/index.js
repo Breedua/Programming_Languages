@@ -1,54 +1,38 @@
-// alert ('Hello World');
+// PRACTICE1
+// If, else if, else statement practice
 
-// console.log(1);
-// console.log(2);
-// console.log(31);
+// const number = 20;
+
+// if (number > 0){
+//     console.log(`${number} is positive`);
+// }
+// else if (number < 0){
+//     console.log(`${number} is negative`);
+// }
+// else {
+//     console.log(`${number} is zero`);
+// }
+
+//PRACTICE2
+// For loop practice
+
+// for (let i = 1; i <= 10; i++) {
+//     console.log('in loop:', i);
+// }
+
+// console.log('Loop Finished');
 
 
-let nullVariable = null;
+// PRACTICE 3
+// Function practice
 
-console.log (nullVariable);
 
-let names = 'Edua';
+const sum = function(num1, num2) {
+    return num1 + num2; // Return the sum of num1 and num2
+};
 
-console.log (names); 
+// Call the function with two numbers as arguments and store the result
+let result = sum(5, 7);
 
-let age = 25;
-
-let year = 2025
-
-console.log(age , year);
-
-age = 30;
-console.log(age);
-
-let email = 'eduaighalo22@gmail.com';
-console.log (email);
-
-let firstName = 'Eduaina';
-let lastName = 'Ighalo';
-
-let fullName = firstName + ' ' + lastName;
-
-console.log (fullName);
-
-console.log (fullName[0]);
-
-console.log (fullName[1]);
-
-console.log (fullName[4]);
-
-console.log (fullName.length);
-
-console.log (fullName.toUpperCase());
-
-let index = email.indexOf('@');
-console.log (index);
-
-let result = email.lastIndexOf('g');
-console.log (result);
-
-let results = email.slice(2,9);
-console.log (results);
-
-// ctrl + b hides and exposes the folder aside
+// Use console.log() to print the result to the console
+console.log(result);
