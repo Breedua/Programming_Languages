@@ -90,4 +90,4 @@ console.log(me)
 // .getElementsByTagName. [this returns html collection too
 //  .querySelector gets only the first element while .querySelectorAll gets all the elements]
 
-//hfm,kle
+//j
