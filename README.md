@@ -10,8 +10,8 @@ So for context the list of languages and derivates to learn are:
 
         ii. Backend JS called Node
 
-2. Python
+2. Python -> Django
 
-3. C#
+3. Ruby -> Ruby on Rails
 
 4. GO
