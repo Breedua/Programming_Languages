@@ -10,10 +10,14 @@ So for context the list of languages and derivates to learn are:
             b. Vue 
             c. Angular
 
-        ii. Backend JS called Node
+        ii. Backend JS
+            a. Node
+            b. Express
 
 2. Python -> Django
 
 3. Ruby -> Ruby on Rails
 
 4. GO
+
+5. Databases
