@@ -2,6 +2,7 @@
 <br>
 <br>
 So for context the list of languages and derivates to learn are:
+<br>
 1. JavaScript.
 
         i. Frontend JS which is also broken into:
