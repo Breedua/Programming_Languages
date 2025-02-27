@@ -1,5 +1,6 @@
-The objective of this directory is to Learn JavaScript.
-
+<h1 align="center">The objective of this directory is to Learn JavaScript.</h1>
+<br>
+<br>
 So for context the list of languages and derivates to learn are:
 1. JavaScript.
 
