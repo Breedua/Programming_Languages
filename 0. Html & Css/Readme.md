@@ -1,0 +1,4 @@
+<h1>Unofficial but important foundations for programming</h1>
+<h3>HTML & CSS</h3>
+<span>The only reason why ive added this folder is because i need an outlet to explode and selfharming doesn't give off reasonable. <br> On the 30/03/25 at about 5:30pm my phone with both a screen guard and screen pouch fell and now the phone is no longer turning on. <br> The screen seems to be working still but the phone refuses to turn on or even display the charging sign. <br> At exactly 6:14pm as i typed this out, i tried again and it has worked. THANK YOU JESUS. I'M SORRY FOR TAKING MY FRUSTRATIONS OUT ON YOU. THANK YOU FOR STILL HELPING ME. PLEASE FORGIVE THIS FOOLISH GIRL AND HER FOOLISHNESS. 
+</span>
