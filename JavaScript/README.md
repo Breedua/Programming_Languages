@@ -62,3 +62,8 @@ increase++;
 //decrementing numbers is done either with -1 or -- just like increments.
 
 //Finding a remainder is done using the remainder operator "%". This is usually used to determinre if a number is even or odd.
+
+// To append variables to string, use the "+=" operator e.g
+ let description = "awesome!";
+ let appendResult = "Ighalo Eduaina Brenda is";
+ appendResult += description;
