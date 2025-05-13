@@ -67,3 +67,22 @@ increase++;
  let description = "awesome!";
  let appendResult = "Ighalo Eduaina Brenda is";
  appendResult += description;
+
+//string methods
+1.variable.length
+2. bracket notation 
+3. Bracket notation to get the last character in a string even when the length of string is unknown is done by:
+ variable[variable.length - 1]; the minus one will give the last index of the string
+ to get the 3rd to last letter or 2nd to last letter the same thing applies:
+ variable[variable.length - 2]; to get the 2nd to last number
+ variable[variable.length - 3]; to get the 3rd to last number
+
+ //ARRAYS
+ //Acessing multi-dimensional arrays with indexes/bracket notations e.g:
+
+ let myArray = [[1,2,3], [4,5,6], [7,8,9], [[10,11,12], 13, 14]];
+ This array contains 1 main array, 4 sub arrays and 3 elements iclusive of an array in the 4th sub array.
+
+ bracket notations/indexes are used to access each value in each main and sub array.
+
+ let myData = myArray[3][0][2]; This targets the 3rd array from 0 and the last value in the array which is the value 12
